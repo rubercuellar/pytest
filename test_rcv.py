@@ -1,4 +1,5 @@
 import pytest
+import allure
 
 @allure.tag('test')
 def test_rcv():
